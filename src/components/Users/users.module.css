@@ -1,0 +1,16 @@
+.usersPhoto{
+    width:200px;
+    height: 200px;
+    
+}
+.button{
+    width:30px;
+
+}
+.img{
+    width:90px;
+    height: 100px;
+}
+.selectedPage{
+font-weight: bold ;
+}
